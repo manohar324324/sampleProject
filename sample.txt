@@ -1,3 +1,8 @@
+this is merge test
+
+
+merge
+
 this is text file.
 hi how are you..
 hi i am fine thank you
